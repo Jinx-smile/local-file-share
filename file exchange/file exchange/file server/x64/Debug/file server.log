@@ -1,0 +1,14 @@
+﻿  server.cpp
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(278,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(285,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(289,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(320,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(360,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(371,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(410,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(424,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(447,55): warning C4244: аргумент: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(480,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(485,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file server\server.cpp(524,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  file server.vcxproj -> C:\Users\1g4r3k\source\repos\file exchange\x64\Debug\file server.exe

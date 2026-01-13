@@ -1,0 +1,14 @@
+﻿  client.cpp
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(548,21): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(822,21): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(177,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(233,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(276,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(312,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(399,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(514,32): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(514,30): warning C4244: инициализация: преобразование "std::streamsize" в "const int", возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(672,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(712,47): warning C4244: аргумент: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\1g4r3k\source\repos\file exchange\file client\client.cpp(807,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  file client.vcxproj -> C:\Users\1g4r3k\source\repos\file exchange\x64\Debug\file client.exe
